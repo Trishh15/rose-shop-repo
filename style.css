@@ -1,0 +1,78 @@
+.banner{
+    display: flex;
+    padding: 6%;
+    background-color: pink;
+    justify-content: space-between;
+
+
+}
+.banner-content{
+    
+    color: #474747;
+    margin-bottom: 0;
+}
+.banner-title{
+    font-size: 85px;
+    font-style: normal;
+    font-weight: 700;
+    margin-top: 5px;
+    margin-bottom: 20px;
+    
+}
+.btn{
+    background-color: mediumvioletred;
+    border-radius: 5px;
+    border: 0;
+    color: white ;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 15px 35px;
+}
+.about{
+    text-align: center;
+    padding: 130px;
+    border-radius: 10px;
+    background: #FFF8F3;
+    margin: 130px;
+}
+.flower{
+    
+    justify-content: space-around;
+    display: flex;
+}
+.img1{
+    padding: 20px;
+    background-color: blanchedalmond;
+    width: 50%;
+    margin-top: 80px;
+    border-top-left-radius: 80px;
+    border-top-right-radius: 80px;
+
+
+}
+.img2{
+    padding: 20px;
+    background-color: lightpink;
+    width: 55%;
+    margin-top: 80px;
+    border-top-left-radius: 80px;
+    border-top-right-radius: 80px;
+    
+
+
+}
+.img3{
+    padding: 20px;
+    background-color: darksalmon;
+    width: 50%;
+    margin-top: 80px;
+    border-top-left-radius: 80px;
+    border-top-right-radius: 80px;
+    text-decoration: double;
+
+}
+.red{
+    margin-top: 28px;
+}
+
+
