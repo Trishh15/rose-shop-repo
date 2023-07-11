@@ -39,14 +39,16 @@
     
     justify-content: space-around;
     display: flex;
+    margin: 10px 10px;
+    
 }
 .img1{
     padding: 20px;
     background-color: blanchedalmond;
     width: 50%;
     margin-top: 80px;
-    border-top-left-radius: 80px;
-    border-top-right-radius: 80px;
+    border-top-left-radius: 90px;
+    border-top-right-radius: 90px;
 
 
 }
@@ -69,10 +71,13 @@
     border-top-left-radius: 80px;
     border-top-right-radius: 80px;
     
+    
 
 }
 .red{
     margin-top: 28px;
+    text-decoration: dashed;
+
 }
 .del-info{
     display: flex;
@@ -86,5 +91,56 @@
     text-align: center;
     color: black;
 
+}
+.offer{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    padding: 130px;
+    
+    background-color: rgb(238, 233, 224);
+    margin-top: 50px;
+    align-items: center;
+    margin: 70px;
+}
+.insta{
+    text-align: center;
+    margin: 40px;
+}
+.insta2{
+    display: flex;
+    justify-content: space-around;
+}
+.deal{
+    background-image: url('../rose-shop-repo/images/Rectangle\ 9.png');
+    margin: 10px;
+    background-repeat: no-repeat;
+    
+}
+.deal1{
+    text-align: center;
+    padding-top: 200px;
+    
+}
+.form{
+    display: flex;
+    
+    justify-content: center;
+    margin-top: 40px;
+    width: 100%;
+    padding-bottom: 100px;
+
+    
+    
+}
+.foot{
+    padding: 100px;
+    text-align: center;
+    background-color: black;
+    color: #FFF8F3;
+    background-size: cover;
+}
+.end{
+    color: #FFF8F3;
 }
 
