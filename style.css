@@ -68,11 +68,23 @@
     margin-top: 80px;
     border-top-left-radius: 80px;
     border-top-right-radius: 80px;
-    text-decoration: double;
+    
 
 }
 .red{
     margin-top: 28px;
 }
+.del-info{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: rgb(234, 222, 222);
+    padding: 50px;
+}
 
+.del{
+    text-align: center;
+    color: black;
+
+}
 
